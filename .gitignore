@@ -1,0 +1,8 @@
+# Editor and OS artifacts
+.DS_Store
+*.swp
+*~
+
+# Local run state (never commit)
+/runs/
+*.log
