@@ -3,15 +3,20 @@
 ## Schedule
 
 - Kind: `daily`
-- Time: <wake-up time, user's local timezone> (set when confirmed)
+- Time: 08:15 (user's local timezone, follows them if they travel)
 - Timezone: `@user.current`
 - Title: `Morning news brief`
 - Mode: `task`, enabled
+- Next run: Sun 2026-10-04 08:15 PDT
 
 ## Delivery
 
-- Result delivered to this chat (the user's WhatsApp-linked conversation gets the summary).
-- Full briefing emailed to the user's address via Gmail (`+send`, HTML body).
+- **Email:** full briefing via Gmail to poojith8@gmail.com
+- **WhatsApp:** brief delivered to the linked WhatsApp chat. NOTE: the cron's
+  chat delivery can only be pointed at the WhatsApp chat from inside that
+  exact chat — the user must open the WhatsApp conversation with Muse and
+  ask there (e.g. "deliver my morning news brief to this chat"). Until then,
+  results land in the setup side chat.
 
 ## Job instructions (body)
 

@@ -35,10 +35,13 @@ scheduler itself lives in the Muse runtime (see setup status below).
 
 ## Setup status
 
-- [ ] Gmail connected (for email sending)
-- [ ] WhatsApp linked (for WhatsApp delivery)
-- [ ] Daily cron job created
-- [ ] Wake-up time confirmed
+- [x] Gmail connected (for email sending) — 2026-10-03
+- [x] WhatsApp linked (for WhatsApp delivery) — 2026-10-03
+- [x] Daily cron job created — `morning-news-brief`, runs 08:15 local daily
+- [x] Wake-up time confirmed — brief lands between 8:00 and 8:30 AM
+- [ ] Cron delivery pointed at WhatsApp chat (requires the user to ask from
+      inside the WhatsApp conversation)
+- [ ] Repo pushed to the user's GitHub (need GitHub username + access)
 
 ## Files
 
