@@ -21,9 +21,10 @@ section only if there is genuinely nothing to report (rare).
 - Key movers and why; Fed/interest-rate/inflation headlines; any major
   economic data released or due today.
 
-### 3. 🏏⚽ Sports
+### 3. 🏏⚽🏎️ Sports
 - Top cricket headlines (international, IPL when in season).
 - Top football headlines (soccer + American football as relevant).
+- Top Formula 1 headlines (race results, standings, driver and team news).
 
 ### 4. 🌤 Weather — 95134 (San Jose, CA)
 - Today's forecast: high/low, conditions, any alerts.

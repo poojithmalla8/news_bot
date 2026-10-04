@@ -31,7 +31,7 @@
 > 1. US top news (10–20 items): include elections, new bills passed, and
 >    anything affecting H1B visa holders.
 > 2. Economics & markets: S&P 500, Nasdaq, Dow, key movers, Fed/economic news.
-> 3. Sports: cricket and football headlines.
+> 3. Sports: cricket, football, and Formula 1 headlines.
 > 4. Weather for zip 95134.
 > 5. World politics (5–10 items).
 > 6. Natural calamities worldwide.
